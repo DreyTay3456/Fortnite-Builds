@@ -1,0 +1,1 @@
+ia download fortnite-versions --format=ZIP

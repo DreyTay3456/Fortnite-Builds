@@ -1,0 +1,1 @@
+ia download fortnite-v-12.62 --format=ZIP
